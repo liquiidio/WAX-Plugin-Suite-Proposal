@@ -4,19 +4,19 @@
 ## Tasks
 
  - General Bugfixing
-	 *- Bugs have been fixed and the last failing UnitTests are completing successfully*
+	 - Bugs have been fixed and the last failing UnitTests are completing successfully
  - Maintainability/Code Streamlining
-	 *- Code has been streamlined to increase maintainability (See Repositories)*
+	 - Code has been streamlined to increase maintainability (See Repositories)
  - Addition of missing functionality
-	 *- Missing functionality has been added (See Repositories, try the Packages functionality)*
+	 - Missing functionality has been added (See Repositories, try the Packages functionality)
  - EosSharp Integration
-	 *- EosSharp has been seamlessly integrated while making use of the ISignatureProvider and AbiSerializationProvider-Classes (See Repo)* 
+	 - EosSharp has been seamlessly integrated while making use of the ISignatureProvider and AbiSerializationProvider-Classes (See Repo)
  - UI Integration
-	 *- UI has been integrated for both UI-Frameworks (Unity UI, UiToolkit). The integrated and developed UI matches the UI of the typically used Anchor Transports (see Repo and Examples)*
+	 - UI has been integrated for both UI-Frameworks (Unity UI, UiToolkit). The integrated and developed UI matches the UI of the typically used Anchor Transports (see Repo and Examples)
  - Transports and Storage
-	 *- Transports for both UI-Frameworks (Unity UI, UiToolkit) have been developed, UI/Visualization has been integrated (See above)*
+	 - Transports for both UI-Frameworks (Unity UI, UiToolkit) have been developed, UI/Visualization has been integrated (See above)
  - Multi Platform Support
-	 *- Platform-/Build-Target-Incompatibilities have been removed (mostly Websocket-Connections and usage of the async-await/Tasking-API).*
+	 - Platform-/Build-Target-Incompatibilities have been removed (mostly Websocket-Connections and usage of the async-await/Tasking-API).
 *The Package works on the typically used Platforms (Windows, Mac, Linux, iOS, Android, WebGL) with differen LTS Versions of Unity3D.* 
 
 The 3 Packages (AnchorLinkSharp, AnchorLinkTransportSharp, EosioSigningRequest - aligned with the TypeScript-Version from Greymass) have been wrapped into a sinlge unitypackage and upm-branch (See Repo)
