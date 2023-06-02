@@ -26,3 +26,4 @@ The 3 Packages (AnchorLinkSharp, AnchorLinkTransportSharp, EosioSigningRequest -
 - An Example of a successfully running Pipeline (including Unittests, Builds, Releases etc.) can be found [here](https://github.com/liquiidio/AnchorLinkSharp/actions/runs/3940803603): 
 - Release-Packages can be found in the Repo [here](https://github.com/liquiidio/AnchorLinkSharp) 
 - Examples can be found [here](https://liquiidio.gitbook.io/unity-plugin-suite) and a small selection of Desktop-Builds [here](https://drive.google.com/drive/folders/1hUU2inw5JppKDC0SsmMU9zENlrV8QaKE?usp=sharing)
+- Repos are [here](https://github.com/liquiidio/AnchorLinkSharp/tree/unity_develop), [here](https://github.com/liquiidio/AnchorLinkTransportSharp/tree/unity_develop) and [here](https://github.com/liquiidio/EosioSigningRequestSharp/tree/unity_develop)
